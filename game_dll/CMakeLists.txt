@@ -10,7 +10,7 @@ PROJECT(${PROJECT_NAME})
 
 #Manually list your cpp and h files here - do NOT use GLOB/GLOB_RECURSE
 SET(${PROJECT_NAME}_cpp
-        ${PROJECT_SOURCE_DIR}/../game_logic/main.cpp)
+        ${PROJECT_SOURCE_DIR}/main.cpp)
 SET(${PROJECT_NAME}_h
         ${PROJECT_SOURCE_DIR}/../game_logic/opengl_interactive.h
         ${PROJECT_SOURCE_DIR}/../game_logic/STRO_NEW.h)
@@ -22,4 +22,4 @@ SET(LIBRARIES_TO_LINK PhysBAM_Rendering-OpenGL)
 #you can force cache variables to be on or off here
 #SET(PHYSBAM_USE_CUDA ON CACHE BOOL ON FORCE)
         
-INCLUDE(C:/Army2015/PhysDrive-PC/Scripts/CMake/Project.cmake)
+INCLUDE(${PROJECT_SOURCE_DIR}/../../Scripts/CMake/Project.cmake)

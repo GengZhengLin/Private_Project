@@ -7,8 +7,8 @@
 #include <PhysBAM_Rendering/PhysBAM_OpenGL/OpenGL/OPENGL_BASIC_CALLBACKS.h>
 #include <PhysBAM_Rendering/PhysBAM_OpenGL/OpenGL/ANIMATED_VISUALIZATION.h>
 #include <PhysBAM_Rendering/PhysBAM_OpenGL/OpenGL/BASIC_VISUALIZATION.h>
-#include "STRO_NEW.h"
-#include "opengl_interactive.h"
+#include "../game_logic/STRO_NEW.h"
+#include "../game_logic/opengl_interactive.h"
 #include <pthread.h>
 #include <stdio.h>
 #ifndef WIN32
@@ -234,17 +234,17 @@ char * Update_Frame()
 	return Get_Info_str();
 }
 
-int main()
-{
-	Init();
-	while (true)
-	{
-		cout << Update_Frame() << endl;
-	}
-}
-
-//extern "C"
+//int main()
 //{
-//	void API_Init(){ Init(); }
-//	char *API_Update_Frame(){ Update_Frame(); }
+//	Init();
+//	while (true)
+//	{
+//		cout << Update_Frame() << endl;
+//	}
 //}
+#define EXPORT_API __declspec(dllexport)
+extern "C"
+{
+	EXPORT_API void API_Init(){ Init(); }
+	EXPORT_API char *API_Update_Frame(){ return Update_Frame(); }
+}
