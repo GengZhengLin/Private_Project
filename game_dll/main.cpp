@@ -217,6 +217,8 @@ void Move_Foward()
 		*curr_accel = 20;
 	}
 	else *curr_accel += 1;
+
+	rigids_example->dst_wise = 1;
 }
 
 char * Update_Frame()
@@ -234,17 +236,40 @@ char * Update_Frame()
 	return Get_Info_str();
 }
 
+void Free_Game()
+{
+	delete rigids_example;
+	delete driver;
+	delete visualizer;
+}
+
 //int main()
 //{
 //	Init();
+//	int counter = 0;
 //	while (true)
 //	{
 //		cout << Update_Frame() << endl;
+//		counter++; if (counter == 100) break;
 //	}
+//	Free_Game();
+//
+//	Init();
+//	counter = 0;
+//	while (true)
+//	{
+//		cout << Update_Frame() << endl;
+//		counter++; if (counter == 100) break;
+//	}
+//	Free_Game();
 //}
+
+
+
 #define EXPORT_API __declspec(dllexport)
 extern "C"
 {
 	EXPORT_API void API_Init(){ Init(); }
 	EXPORT_API char *API_Update_Frame(){ return Update_Frame(); }
+	EXPORT_API void API_Free_Game(){ Free_Game(); }
 }

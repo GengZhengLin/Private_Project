@@ -944,11 +944,11 @@
   <print>Collision Body Spatial Partition voxel size=160000 heuristic=1 # of boxes=100 voxel_size_scale_factor=8</print>
   <print>Collision Body Spatial Partition voxel size=160000 heuristic=1 # of boxes=100 voxel_size_scale_factor=8</print>
   <print>No initial interpenetration</print>
-  <scope name="CG"><time value="0.000168"/></scope>
+  <scope name="CG"><time value="0.000065"/></scope>
   <print>time = 0</print>
   <print>maximum rigid linear velocity = 0.204167 (1)</print>
   <print>maximum rigid angular velocity = 0 (1)</print>
-  <scope name="CG"><time value="0.000210"/></scope>
+  <scope name="CG"><time value="0.000195"/></scope>
   <print>time = 0</print>
   <print>maximum rigid linear velocity = 0.58315 (2)</print>
   <print>maximum rigid angular velocity = 0.380153 (7)</print>
@@ -957,1075 +957,891 @@
   <print>time = 0.0416667</print>
   <print>maximum rigid linear velocity = 0.915737 (1)</print>
   <print>maximum rigid angular velocity = 0.5 (3)</print>
-  <scope name="CG"><time value="0.000184"/></scope>
-  <print>time = 0.0416667</print>
-  <print>maximum rigid linear velocity = 0.936712 (2)</print>
-  <print>maximum rigid angular velocity = 0.586282 (2)</print>
-  <print>TIME = 0.0833333</print>
-  <scope name="CG"><time value="0.000057"/></scope>
-  <print>time = 0.0833333</print>
-  <print>maximum rigid linear velocity = 1.29454 (1)</print>
-  <print>maximum rigid angular velocity = 1 (2)</print>
-  <scope name="CG"><time value="0.000188"/></scope>
-  <print>time = 0.0833333</print>
-  <print>maximum rigid linear velocity = 1.34311 (3)</print>
-  <print>maximum rigid angular velocity = 1.01105 (2)</print>
-  <print>TIME = 0.125</print>
-  <scope name="CG"><time value="0.000057"/></scope>
-  <print>time = 0.125</print>
-  <print>maximum rigid linear velocity = 1.73507 (1)</print>
-  <print>maximum rigid angular velocity = 1.5 (5)</print>
-  <scope name="CG"><time value="0.000185"/></scope>
-  <print>time = 0.125</print>
-  <print>maximum rigid linear velocity = 1.65998 (8)</print>
-  <print>maximum rigid angular velocity = 1.50138 (2)</print>
-  <print>TIME = 0.166667</print>
-  <scope name="CG"><time value="0.000058"/></scope>
-  <print>time = 0.166667</print>
-  <print>maximum rigid linear velocity = 2.16769 (1)</print>
-  <print>maximum rigid angular velocity = 2 (3)</print>
-  <scope name="CG"><time value="0.000184"/></scope>
-  <print>time = 0.166667</print>
-  <print>maximum rigid linear velocity = 2.05421 (4)</print>
-  <print>maximum rigid angular velocity = 2.00008 (4)</print>
-  <print>TIME = 0.208333</print>
-  <scope name="CG"><time value="0.000057"/></scope>
-  <print>time = 0.208333</print>
-  <print>maximum rigid linear velocity = 2.58467 (1)</print>
-  <print>maximum rigid angular velocity = 2.5 (5)</print>
-  <scope name="CG"><time value="0.000185"/></scope>
-  <print>time = 0.208333</print>
-  <print>maximum rigid linear velocity = 2.4585 (4)</print>
-  <print>maximum rigid angular velocity = 2.50005 (4)</print>
-  <print>TIME = 0.25</print>
-  <scope name="CG"><time value="0.000081"/></scope>
-  <print>time = 0.25</print>
-  <print>maximum rigid linear velocity = 2.98983 (1)</print>
-  <print>maximum rigid angular velocity = 3 (4)</print>
-  <scope name="CG"><time value="0.000190"/></scope>
-  <print>time = 0.25</print>
-  <print>maximum rigid linear velocity = 2.86537 (3)</print>
-  <print>maximum rigid angular velocity = 3.00005 (4)</print>
-  <print>TIME = 0.291667</print>
-  <scope name="CG"><time value="0.000066"/></scope>
-  <print>time = 0.291667</print>
-  <print>maximum rigid linear velocity = 3.39802 (1)</print>
-  <print>maximum rigid angular velocity = 3.5 (4)</print>
-  <scope name="CG"><time value="0.000218"/></scope>
-  <print>time = 0.291667</print>
-  <print>maximum rigid linear velocity = 3.27818 (3)</print>
-  <print>maximum rigid angular velocity = 3.50005 (4)</print>
-  <print>TIME = 0.333333</print>
-  <scope name="CG"><time value="0.000060"/></scope>
-  <print>time = 0.333333</print>
-  <print>maximum rigid linear velocity = 3.80369 (1)</print>
-  <print>maximum rigid angular velocity = 4 (2)</print>
-  <scope name="CG"><time value="0.000212"/></scope>
-  <print>time = 0.333333</print>
-  <print>maximum rigid linear velocity = 3.68901 (3)</print>
-  <print>maximum rigid angular velocity = 4.00005 (4)</print>
-  <print>TIME = 0.375</print>
-  <scope name="CG"><time value="0.000060"/></scope>
-  <print>time = 0.375</print>
-  <print>maximum rigid linear velocity = 4.21148 (1)</print>
-  <print>maximum rigid angular velocity = 4.5 (2)</print>
-  <scope name="CG"><time value="0.000218"/></scope>
-  <print>time = 0.375</print>
-  <print>maximum rigid linear velocity = 4.09857 (3)</print>
-  <print>maximum rigid angular velocity = 4.50005 (4)</print>
-  <print>TIME = 0.416667</print>
-  <scope name="CG"><time value="0.000072"/></scope>
-  <print>time = 0.416667</print>
-  <print>maximum rigid linear velocity = 4.61969 (1)</print>
-  <print>maximum rigid angular velocity = 5 (3)</print>
-  <scope name="CG"><time value="0.000224"/></scope>
-  <print>time = 0.416667</print>
-  <print>maximum rigid linear velocity = 4.50742 (3)</print>
-  <print>maximum rigid angular velocity = 5.00005 (4)</print>
-  <print>TIME = 0.458333</print>
-  <scope name="CG"><time value="0.000067"/></scope>
-  <print>time = 0.458333</print>
-  <print>maximum rigid linear velocity = 5.02793 (1)</print>
-  <print>maximum rigid angular velocity = 5.5 (2)</print>
-  <scope name="CG"><time value="0.000219"/></scope>
-  <print>time = 0.458333</print>
-  <print>maximum rigid linear velocity = 4.91202 (3)</print>
-  <print>maximum rigid angular velocity = 5.50006 (4)</print>
-  <print>TIME = 0.5</print>
-  <scope name="CG"><time value="0.000060"/></scope>
-  <print>time = 0.5</print>
-  <print>maximum rigid linear velocity = 5.4367 (1)</print>
-  <print>maximum rigid angular velocity = 6 (4)</print>
-  <scope name="CG"><time value="0.000221"/></scope>
-  <print>time = 0.5</print>
-  <print>maximum rigid linear velocity = 5.31985 (3)</print>
-  <print>maximum rigid angular velocity = 6.00006 (4)</print>
-  <print>TIME = 0.541667</print>
-  <scope name="CG"><time value="0.000072"/></scope>
-  <print>time = 0.541667</print>
-  <print>maximum rigid linear velocity = 5.84512 (1)</print>
-  <print>maximum rigid angular velocity = 6.50001 (3)</print>
-  <scope name="CG"><time value="0.000222"/></scope>
-  <print>time = 0.541667</print>
-  <print>maximum rigid linear velocity = 5.72848 (3)</print>
-  <print>maximum rigid angular velocity = 6.50007 (4)</print>
-  <print>TIME = 0.583333</print>
-  <scope name="CG"><time value="0.000064"/></scope>
-  <print>time = 0.583333</print>
-  <print>maximum rigid linear velocity = 6.25344 (1)</print>
-  <print>maximum rigid angular velocity = 7.00001 (4)</print>
-  <scope name="CG"><time value="0.000217"/></scope>
-  <print>time = 0.583333</print>
-  <print>maximum rigid linear velocity = 6.13729 (3)</print>
-  <print>maximum rigid angular velocity = 7.00007 (4)</print>
-  <print>TIME = 0.625</print>
-  <scope name="CG"><time value="0.000059"/></scope>
-  <print>time = 0.625</print>
-  <print>maximum rigid linear velocity = 6.6616 (1)</print>
-  <print>maximum rigid angular velocity = 7.50001 (5)</print>
-  <scope name="CG"><time value="0.000221"/></scope>
-  <print>time = 0.625</print>
-  <print>maximum rigid linear velocity = 6.54591 (3)</print>
-  <print>maximum rigid angular velocity = 7.50006 (4)</print>
-  <print>TIME = 0.666667</print>
-  <scope name="CG"><time value="0.000071"/></scope>
-  <print>time = 0.666667</print>
-  <print>maximum rigid linear velocity = 7.06987 (1)</print>
-  <print>maximum rigid angular velocity = 8.00001 (5)</print>
-  <scope name="CG"><time value="0.000219"/></scope>
-  <print>time = 0.666667</print>
-  <print>maximum rigid linear velocity = 6.95439 (3)</print>
-  <print>maximum rigid angular velocity = 8.00005 (4)</print>
-  <print>TIME = 0.708333</print>
-  <scope name="CG"><time value="0.000059"/></scope>
-  <print>time = 0.708333</print>
-  <print>maximum rigid linear velocity = 7.47811 (1)</print>
-  <print>maximum rigid angular velocity = 8.50001 (2)</print>
-  <scope name="CG"><time value="0.000216"/></scope>
-  <print>time = 0.708333</print>
-  <print>maximum rigid linear velocity = 7.36291 (3)</print>
-  <print>maximum rigid angular velocity = 8.50004 (4)</print>
-  <print>TIME = 0.75</print>
-  <scope name="CG"><time value="0.000067"/></scope>
-  <print>time = 0.75</print>
-  <print>maximum rigid linear velocity = 7.88665 (1)</print>
-  <print>maximum rigid angular velocity = 9.00001 (2)</print>
-  <scope name="CG"><time value="0.000219"/></scope>
-  <print>time = 0.75</print>
-  <print>maximum rigid linear velocity = 7.70781 (2)</print>
-  <print>maximum rigid angular velocity = 9.00339 (2)</print>
-  <print>TIME = 0.791667</print>
-  <scope name="CG"><time value="0.000059"/></scope>
-  <print>time = 0.791667</print>
-  <print>maximum rigid linear velocity = 7.91027 (2)</print>
-  <print>maximum rigid angular velocity = 9.50001 (2)</print>
-  <scope name="CG"><time value="0.000222"/></scope>
-  <print>time = 0.791667</print>
-  <print>maximum rigid linear velocity = 6.39943 (7)</print>
-  <print>maximum rigid angular velocity = 5.20922 (3)</print>
-  <print>TIME = 0.833333</print>
-  <scope name="CG"><time value="0.000074"/></scope>
-  <print>time = 0.833333</print>
-  <print>maximum rigid linear velocity = 6.3449 (7)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000221"/></scope>
-  <print>time = 0.833333</print>
-  <print>maximum rigid linear velocity = 4.35799 (2)</print>
-  <print>maximum rigid angular velocity = 9.9858 (5)</print>
-  <print>TIME = 0.875</print>
-  <scope name="CG"><time value="0.000072"/></scope>
-  <print>time = 0.875</print>
-  <print>maximum rigid linear velocity = 4.27527 (3)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000216"/></scope>
-  <print>time = 0.875</print>
-  <print>maximum rigid linear velocity = 3.97475 (1)</print>
-  <print>maximum rigid angular velocity = 10.0068 (2)</print>
-  <print>TIME = 0.916667</print>
-  <scope name="CG"><time value="0.000090"/></scope>
-  <print>time = 0.916667</print>
-  <print>maximum rigid linear velocity = 3.99077 (6)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000192"/></scope>
-  <print>time = 0.916667</print>
-  <print>maximum rigid linear velocity = 3.81871 (1)</print>
-  <print>maximum rigid angular velocity = 10.0146 (3)</print>
-  <print>TIME = 0.958333</print>
-  <scope name="CG"><time value="0.000059"/></scope>
-  <print>time = 0.958333</print>
-  <print>maximum rigid linear velocity = 3.78981 (6)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000217"/></scope>
-  <print>time = 0.958333</print>
-  <print>maximum rigid linear velocity = 3.71381 (1)</print>
-  <print>maximum rigid angular velocity = 10.0141 (3)</print>
-  <print>TIME = 1</print>
-  <scope name="CG"><time value="0.000069"/></scope>
-  <print>time = 1</print>
-  <print>maximum rigid linear velocity = 3.67887 (1)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000204"/></scope>
-  <print>time = 1</print>
-  <print>maximum rigid linear velocity = 3.65405 (1)</print>
-  <print>maximum rigid angular velocity = 10.0068 (3)</print>
-  <print>TIME = 1.04167</print>
-  <scope name="CG"><time value="0.000090"/></scope>
-  <print>time = 1.04167</print>
-  <print>maximum rigid linear velocity = 3.67832 (1)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000210"/></scope>
-  <print>time = 1.04167</print>
-  <print>maximum rigid linear velocity = 3.64601 (1)</print>
-  <print>maximum rigid angular velocity = 10.0017 (3)</print>
-  <print>TIME = 1.08333</print>
-  <scope name="CG"><time value="0.000059"/></scope>
-  <print>time = 1.08333</print>
-  <print>maximum rigid linear velocity = 3.72912 (1)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000225"/></scope>
-  <print>time = 1.08333</print>
-  <print>maximum rigid linear velocity = 3.68971 (1)</print>
-  <print>maximum rigid angular velocity = 10.0002 (4)</print>
-  <print>TIME = 1.125</print>
-  <scope name="CG"><time value="0.000064"/></scope>
-  <print>time = 1.125</print>
-  <print>maximum rigid linear velocity = 3.82631 (1)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000208"/></scope>
-  <print>time = 1.125</print>
-  <print>maximum rigid linear velocity = 3.85775 (4)</print>
-  <print>maximum rigid angular velocity = 10.0003 (4)</print>
-  <print>TIME = 1.16667</print>
-  <scope name="CG"><time value="0.000106"/></scope>
-  <print>time = 1.16667</print>
-  <print>maximum rigid linear velocity = 4.01357 (1)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
   <scope name="CG"><time value="0.000196"/></scope>
-  <print>time = 1.16667</print>
-  <print>maximum rigid linear velocity = 4.20826 (8)</print>
-  <print>maximum rigid angular velocity = 10.001 (4)</print>
-  <print>TIME = 1.20833</print>
-  <scope name="CG"><time value="0.000080"/></scope>
-  <print>time = 1.20833</print>
-  <print>maximum rigid linear velocity = 4.36441 (1)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000208"/></scope>
-  <print>time = 1.20833</print>
-  <print>maximum rigid linear velocity = 5.00537 (4)</print>
-  <print>maximum rigid angular velocity = 7.63952 (3)</print>
-  <print>TIME = 1.25</print>
-  <scope name="CG"><time value="0.000077"/></scope>
-  <print>time = 1.25</print>
-  <print>maximum rigid linear velocity = 5.04609 (4)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000214"/></scope>
-  <print>time = 1.25</print>
-  <print>maximum rigid linear velocity = 5.49014 (1)</print>
-  <print>maximum rigid angular velocity = 9.16031 (4)</print>
-  <print>TIME = 1.29167</print>
-  <scope name="CG"><time value="0.000088"/></scope>
-  <print>time = 1.29167</print>
-  <print>maximum rigid linear velocity = 5.54145 (1)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000190"/></scope>
-  <print>time = 1.29167</print>
-  <print>maximum rigid linear velocity = 6.48533 (1)</print>
-  <print>maximum rigid angular velocity = 9.39996 (4)</print>
-  <print>TIME = 1.33333</print>
+  <print>time = 0.0416667</print>
+  <print>maximum rigid linear velocity = 1.00996 (5)</print>
+  <print>maximum rigid angular velocity = 0.972256 (4)</print>
+  <print>TIME = 0.0833333</print>
+  <scope name="CG"><time value="0.000066"/></scope>
+  <print>time = 0.0833333</print>
+  <print>maximum rigid linear velocity = 1.2893 (1)</print>
+  <print>maximum rigid angular velocity = 1 (3)</print>
+  <scope name="CG"><time value="0.000196"/></scope>
+  <print>time = 0.0833333</print>
+  <print>maximum rigid linear velocity = 1.48905 (4)</print>
+  <print>maximum rigid angular velocity = 1.80477 (4)</print>
+  <print>TIME = 0.125</print>
   <scope name="CG"><time value="0.000065"/></scope>
-  <print>time = 1.33333</print>
-  <print>maximum rigid linear velocity = 6.47367 (1)</print>
+  <print>time = 0.125</print>
+  <print>maximum rigid linear velocity = 1.72736 (1)</print>
+  <print>maximum rigid angular velocity = 1.50344 (9)</print>
+  <scope name="CG"><time value="0.000197"/></scope>
+  <print>time = 0.125</print>
+  <print>maximum rigid linear velocity = 1.93572 (5)</print>
+  <print>maximum rigid angular velocity = 2.49489 (5)</print>
+  <print>TIME = 0.166667</print>
+  <scope name="CG"><time value="0.000064"/></scope>
+  <print>time = 0.166667</print>
+  <print>maximum rigid linear velocity = 2.16971 (1)</print>
+  <print>maximum rigid angular velocity = 2 (2)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
+  <print>time = 0.166667</print>
+  <print>maximum rigid linear velocity = 2.21306 (5)</print>
+  <print>maximum rigid angular velocity = 2.50548 (4)</print>
+  <print>TIME = 0.208333</print>
+  <scope name="CG"><time value="0.000063"/></scope>
+  <print>time = 0.208333</print>
+  <print>maximum rigid linear velocity = 2.5853 (1)</print>
+  <print>maximum rigid angular velocity = 2.5 (4)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 0.208333</print>
+  <print>maximum rigid linear velocity = 2.55714 (5)</print>
+  <print>maximum rigid angular velocity = 2.70193 (4)</print>
+  <print>TIME = 0.25</print>
+  <scope name="CG"><time value="0.000060"/></scope>
+  <print>time = 0.25</print>
+  <print>maximum rigid linear velocity = 2.9656 (1)</print>
+  <print>maximum rigid angular velocity = 3 (3)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
+  <print>time = 0.25</print>
+  <print>maximum rigid linear velocity = 2.93856 (3)</print>
+  <print>maximum rigid angular velocity = 3.07382 (4)</print>
+  <print>TIME = 0.291667</print>
+  <scope name="CG"><time value="0.000078"/></scope>
+  <print>time = 0.291667</print>
+  <print>maximum rigid linear velocity = 3.3805 (1)</print>
+  <print>maximum rigid angular velocity = 3.5 (2)</print>
+  <scope name="CG"><time value="0.000189"/></scope>
+  <print>time = 0.291667</print>
+  <print>maximum rigid linear velocity = 3.3471 (3)</print>
+  <print>maximum rigid angular velocity = 3.52499 (4)</print>
+  <print>TIME = 0.333333</print>
+  <scope name="CG"><time value="0.000068"/></scope>
+  <print>time = 0.333333</print>
+  <print>maximum rigid linear velocity = 3.78886 (1)</print>
+  <print>maximum rigid angular velocity = 4 (2)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 0.333333</print>
+  <print>maximum rigid linear velocity = 3.75496 (3)</print>
+  <print>maximum rigid angular velocity = 4.00748 (4)</print>
+  <print>TIME = 0.375</print>
+  <scope name="CG"><time value="0.000068"/></scope>
+  <print>time = 0.375</print>
+  <print>maximum rigid linear velocity = 4.19899 (1)</print>
+  <print>maximum rigid angular velocity = 4.5 (2)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
+  <print>time = 0.375</print>
+  <print>maximum rigid linear velocity = 4.16259 (3)</print>
+  <print>maximum rigid angular velocity = 4.50154 (5)</print>
+  <print>TIME = 0.416667</print>
+  <scope name="CG"><time value="0.000061"/></scope>
+  <print>time = 0.416667</print>
+  <print>maximum rigid linear velocity = 4.62499 (1)</print>
+  <print>maximum rigid angular velocity = 5 (4)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 0.416667</print>
+  <print>maximum rigid linear velocity = 4.57031 (3)</print>
+  <print>maximum rigid angular velocity = 5.00113 (2)</print>
+  <print>TIME = 0.458333</print>
+  <scope name="CG"><time value="0.000063"/></scope>
+  <print>time = 0.458333</print>
+  <print>maximum rigid linear velocity = 5.03231 (1)</print>
+  <print>maximum rigid angular velocity = 5.5 (3)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 0.458333</print>
+  <print>maximum rigid linear velocity = 4.97299 (3)</print>
+  <print>maximum rigid angular velocity = 5.50081 (2)</print>
+  <print>TIME = 0.5</print>
+  <scope name="CG"><time value="0.000065"/></scope>
+  <print>time = 0.5</print>
+  <print>maximum rigid linear velocity = 5.44687 (1)</print>
+  <print>maximum rigid angular velocity = 6 (5)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 0.5</print>
+  <print>maximum rigid linear velocity = 5.37778 (3)</print>
+  <print>maximum rigid angular velocity = 6.00061 (2)</print>
+  <print>TIME = 0.541667</print>
+  <scope name="CG"><time value="0.000061"/></scope>
+  <print>time = 0.541667</print>
+  <print>maximum rigid linear velocity = 5.8476 (1)</print>
+  <print>maximum rigid angular velocity = 6.50001 (3)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 0.541667</print>
+  <print>maximum rigid linear velocity = 5.77896 (3)</print>
+  <print>maximum rigid angular velocity = 6.50051 (2)</print>
+  <print>TIME = 0.583333</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 0.583333</print>
+  <print>maximum rigid linear velocity = 6.24257 (1)</print>
+  <print>maximum rigid angular velocity = 7 (2)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 0.583333</print>
+  <print>maximum rigid linear velocity = 6.18858 (5)</print>
+  <print>maximum rigid angular velocity = 7.00055 (2)</print>
+  <print>TIME = 0.625</print>
+  <scope name="CG"><time value="0.000063"/></scope>
+  <print>time = 0.625</print>
+  <print>maximum rigid linear velocity = 6.63398 (1)</print>
+  <print>maximum rigid angular velocity = 7.50001 (3)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 0.625</print>
+  <print>maximum rigid linear velocity = 6.59497 (3)</print>
+  <print>maximum rigid angular velocity = 7.50069 (2)</print>
+  <print>TIME = 0.666667</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 0.666667</print>
+  <print>maximum rigid linear velocity = 7.05038 (1)</print>
+  <print>maximum rigid angular velocity = 8 (5)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 0.666667</print>
+  <print>maximum rigid linear velocity = 7.00071 (3)</print>
+  <print>maximum rigid angular velocity = 8.00091 (2)</print>
+  <print>TIME = 0.708333</print>
+  <scope name="CG"><time value="0.000063"/></scope>
+  <print>time = 0.708333</print>
+  <print>maximum rigid linear velocity = 7.47733 (1)</print>
+  <print>maximum rigid angular velocity = 8.50001 (2)</print>
+  <scope name="CG"><time value="0.000185"/></scope>
+  <print>time = 0.708333</print>
+  <print>maximum rigid linear velocity = 7.4064 (3)</print>
+  <print>maximum rigid angular velocity = 8.50104 (2)</print>
+  <print>TIME = 0.75</print>
+  <scope name="CG"><time value="0.000069"/></scope>
+  <print>time = 0.75</print>
+  <print>maximum rigid linear velocity = 7.89262 (1)</print>
+  <print>maximum rigid angular velocity = 9.00001 (5)</print>
+  <scope name="CG"><time value="0.000196"/></scope>
+  <print>time = 0.75</print>
+  <print>maximum rigid linear velocity = 7.6863 (2)</print>
+  <print>maximum rigid angular velocity = 9.00136 (2)</print>
+  <print>TIME = 0.791667</print>
+  <scope name="CG"><time value="0.000070"/></scope>
+  <print>time = 0.791667</print>
+  <print>maximum rigid linear velocity = 7.88955 (2)</print>
+  <print>maximum rigid angular velocity = 9.5 (3)</print>
+  <scope name="CG"><time value="0.000197"/></scope>
+  <print>time = 0.791667</print>
+  <print>maximum rigid linear velocity = 6.4555 (7)</print>
+  <print>maximum rigid angular velocity = 5.23581 (3)</print>
+  <print>TIME = 0.833333</print>
+  <scope name="CG"><time value="0.000066"/></scope>
+  <print>time = 0.833333</print>
+  <print>maximum rigid linear velocity = 6.40348 (7)</print>
   <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000218"/></scope>
+  <scope name="CG"><time value="0.000198"/></scope>
+  <print>time = 0.833333</print>
+  <print>maximum rigid linear velocity = 4.64445 (3)</print>
+  <print>maximum rigid angular velocity = 9.98651 (5)</print>
+  <print>TIME = 0.875</print>
+  <scope name="CG"><time value="0.000071"/></scope>
+  <print>time = 0.875</print>
+  <print>maximum rigid linear velocity = 4.58018 (3)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000198"/></scope>
+  <print>time = 0.875</print>
+  <print>maximum rigid linear velocity = 4.34981 (5)</print>
+  <print>maximum rigid angular velocity = 10.0081 (3)</print>
+  <print>TIME = 0.916667</print>
+  <scope name="CG"><time value="0.000058"/></scope>
+  <print>time = 0.916667</print>
+  <print>maximum rigid linear velocity = 4.31473 (5)</print>
+  <print>maximum rigid angular velocity = 10 (5)</print>
+  <scope name="CG"><time value="0.000185"/></scope>
+  <print>time = 0.916667</print>
+  <print>maximum rigid linear velocity = 4.35508 (5)</print>
+  <print>maximum rigid angular velocity = 10.0017 (2)</print>
+  <print>TIME = 0.958333</print>
+  <scope name="CG"><time value="0.000065"/></scope>
+  <print>time = 0.958333</print>
+  <print>maximum rigid linear velocity = 4.33927 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000189"/></scope>
+  <print>time = 0.958333</print>
+  <print>maximum rigid linear velocity = 4.31044 (5)</print>
+  <print>maximum rigid angular velocity = 10.0108 (3)</print>
+  <print>TIME = 1</print>
+  <scope name="CG"><time value="0.000059"/></scope>
+  <print>time = 1</print>
+  <print>maximum rigid linear velocity = 4.31244 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000191"/></scope>
+  <print>time = 1</print>
+  <print>maximum rigid linear velocity = 4.28912 (5)</print>
+  <print>maximum rigid angular velocity = 10.0025 (2)</print>
+  <print>TIME = 1.04167</print>
+  <scope name="CG"><time value="0.000057"/></scope>
+  <print>time = 1.04167</print>
+  <print>maximum rigid linear velocity = 4.30962 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000185"/></scope>
+  <print>time = 1.04167</print>
+  <print>maximum rigid linear velocity = 4.30625 (5)</print>
+  <print>maximum rigid angular velocity = 10.0023 (2)</print>
+  <print>TIME = 1.08333</print>
+  <scope name="CG"><time value="0.000057"/></scope>
+  <print>time = 1.08333</print>
+  <print>maximum rigid linear velocity = 4.34567 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000185"/></scope>
+  <print>time = 1.08333</print>
+  <print>maximum rigid linear velocity = 4.42664 (5)</print>
+  <print>maximum rigid angular velocity = 10.0027 (4)</print>
+  <print>TIME = 1.125</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 1.125</print>
+  <print>maximum rigid linear velocity = 4.47988 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000190"/></scope>
+  <print>time = 1.125</print>
+  <print>maximum rigid linear velocity = 4.7726 (5)</print>
+  <print>maximum rigid angular velocity = 10.0021 (5)</print>
+  <print>TIME = 1.16667</print>
+  <scope name="CG"><time value="0.000058"/></scope>
+  <print>time = 1.16667</print>
+  <print>maximum rigid linear velocity = 4.83746 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000185"/></scope>
+  <print>time = 1.16667</print>
+  <print>maximum rigid linear velocity = 5.21264 (5)</print>
+  <print>maximum rigid angular velocity = 10.0018 (5)</print>
+  <print>TIME = 1.20833</print>
+  <scope name="CG"><time value="0.000057"/></scope>
+  <print>time = 1.20833</print>
+  <print>maximum rigid linear velocity = 5.28169 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000187"/></scope>
+  <print>time = 1.20833</print>
+  <print>maximum rigid linear velocity = 5.93468 (5)</print>
+  <print>maximum rigid angular velocity = 9.31484 (2)</print>
+  <print>TIME = 1.25</print>
+  <scope name="CG"><time value="0.000057"/></scope>
+  <print>time = 1.25</print>
+  <print>maximum rigid linear velocity = 5.96192 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000185"/></scope>
+  <print>time = 1.25</print>
+  <print>maximum rigid linear velocity = 6.15471 (9)</print>
+  <print>maximum rigid angular velocity = 9.99913 (5)</print>
+  <print>TIME = 1.29167</print>
+  <scope name="CG"><time value="0.000057"/></scope>
+  <print>time = 1.29167</print>
+  <print>maximum rigid linear velocity = 6.15439 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000186"/></scope>
+  <print>time = 1.29167</print>
+  <print>maximum rigid linear velocity = 6.37311 (9)</print>
+  <print>maximum rigid angular velocity = 10.0026 (3)</print>
+  <print>TIME = 1.33333</print>
+  <scope name="CG"><time value="0.000057"/></scope>
   <print>time = 1.33333</print>
-  <print>maximum rigid linear velocity = 6.65935 (1)</print>
-  <print>maximum rigid angular velocity = 10.0021 (3)</print>
+  <print>maximum rigid linear velocity = 6.39674 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000185"/></scope>
+  <print>time = 1.33333</print>
+  <print>maximum rigid linear velocity = 6.71772 (9)</print>
+  <print>maximum rigid angular velocity = 9.99965 (5)</print>
   <print>TIME = 1.375</print>
-  <scope name="CG"><time value="0.000088"/></scope>
+  <scope name="CG"><time value="0.000057"/></scope>
   <print>time = 1.375</print>
-  <print>maximum rigid linear velocity = 6.66904 (1)</print>
+  <print>maximum rigid linear velocity = 6.71744 (9)</print>
   <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000216"/></scope>
+  <scope name="CG"><time value="0.000185"/></scope>
   <print>time = 1.375</print>
-  <print>maximum rigid linear velocity = 6.81905 (5)</print>
-  <print>maximum rigid angular velocity = 10.0053 (2)</print>
+  <print>maximum rigid linear velocity = 7.27501 (5)</print>
+  <print>maximum rigid angular velocity = 9.59358 (3)</print>
   <print>TIME = 1.41667</print>
-  <scope name="CG"><time value="0.000092"/></scope>
+  <scope name="CG"><time value="0.000057"/></scope>
   <print>time = 1.41667</print>
-  <print>maximum rigid linear velocity = 6.83528 (1)</print>
+  <print>maximum rigid linear velocity = 7.30137 (5)</print>
   <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000214"/></scope>
+  <scope name="CG"><time value="0.000185"/></scope>
   <print>time = 1.41667</print>
-  <print>maximum rigid linear velocity = 7.15846 (1)</print>
-  <print>maximum rigid angular velocity = 10.0018 (4)</print>
+  <print>maximum rigid linear velocity = 7.46193 (9)</print>
+  <print>maximum rigid angular velocity = 10.0076 (2)</print>
   <print>TIME = 1.45833</print>
-  <scope name="CG"><time value="0.000088"/></scope>
+  <scope name="CG"><time value="0.000062"/></scope>
   <print>time = 1.45833</print>
-  <print>maximum rigid linear velocity = 7.1623 (1)</print>
+  <print>maximum rigid linear velocity = 7.49136 (5)</print>
   <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000218"/></scope>
+  <scope name="CG"><time value="0.000188"/></scope>
   <print>time = 1.45833</print>
-  <print>maximum rigid linear velocity = 7.23128 (1)</print>
-  <print>maximum rigid angular velocity = 10.0001 (2)</print>
+  <print>maximum rigid linear velocity = 8.16167 (5)</print>
+  <print>maximum rigid angular velocity = 8.92268 (3)</print>
   <print>TIME = 1.5</print>
-  <scope name="CG"><time value="0.000081"/></scope>
+  <scope name="CG"><time value="0.000059"/></scope>
   <print>time = 1.5</print>
-  <print>maximum rigid linear velocity = 7.26685 (1)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000220"/></scope>
+  <print>maximum rigid linear velocity = 8.18583 (5)</print>
+  <print>maximum rigid angular velocity = 10 (5)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
   <print>time = 1.5</print>
-  <print>maximum rigid linear velocity = 7.42129 (1)</print>
-  <print>maximum rigid angular velocity = 10.0006 (4)</print>
+  <print>maximum rigid linear velocity = 8.62554 (5)</print>
+  <print>maximum rigid angular velocity = 10.0102 (5)</print>
   <print>TIME = 1.54167</print>
-  <scope name="CG"><time value="0.000089"/></scope>
+  <scope name="CG"><time value="0.000057"/></scope>
   <print>time = 1.54167</print>
-  <print>maximum rigid linear velocity = 7.45854 (1)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000211"/></scope>
+  <print>maximum rigid linear velocity = 8.65756 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000186"/></scope>
   <print>time = 1.54167</print>
-  <print>maximum rigid linear velocity = 7.71561 (1)</print>
+  <print>maximum rigid linear velocity = 9.1137 (5)</print>
   <print>maximum rigid angular velocity = 10.0002 (4)</print>
   <print>TIME = 1.58333</print>
-  <scope name="CG"><time value="0.000093"/></scope>
+  <scope name="CG"><time value="0.000059"/></scope>
   <print>time = 1.58333</print>
-  <print>maximum rigid linear velocity = 7.76577 (1)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000218"/></scope>
+  <print>maximum rigid linear velocity = 9.13425 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000186"/></scope>
   <print>time = 1.58333</print>
-  <print>maximum rigid linear velocity = 7.96407 (1)</print>
-  <print>maximum rigid angular velocity = 10.0007 (3)</print>
+  <print>maximum rigid linear velocity = 9.21593 (5)</print>
+  <print>maximum rigid angular velocity = 9.99533 (5)</print>
   <print>TIME = 1.625</print>
-  <scope name="CG"><time value="0.000090"/></scope>
-  <print>time = 1.625</print>
-  <print>maximum rigid linear velocity = 8.02023 (1)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000189"/></scope>
-  <print>time = 1.625</print>
-  <print>maximum rigid linear velocity = 8.31789 (1)</print>
-  <print>maximum rigid angular velocity = 9.24179 (2)</print>
-  <print>TIME = 1.66667</print>
-  <scope name="CG"><time value="0.000081"/></scope>
-  <print>time = 1.66667</print>
-  <print>maximum rigid linear velocity = 8.35348 (1)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000222"/></scope>
-  <print>time = 1.66667</print>
-  <print>maximum rigid linear velocity = 8.54339 (1)</print>
-  <print>maximum rigid angular velocity = 10.0019 (4)</print>
-  <print>TIME = 1.70833</print>
-  <scope name="CG"><time value="0.000091"/></scope>
-  <print>time = 1.70833</print>
-  <print>maximum rigid linear velocity = 8.58338 (1)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000224"/></scope>
-  <print>time = 1.70833</print>
-  <print>maximum rigid linear velocity = 8.86349 (3)</print>
-  <print>maximum rigid angular velocity = 8.78493 (4)</print>
-  <print>TIME = 1.75</print>
-  <scope name="CG"><time value="0.000086"/></scope>
-  <print>time = 1.75</print>
-  <print>maximum rigid linear velocity = 8.87808 (7)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000219"/></scope>
-  <print>time = 1.75</print>
-  <print>maximum rigid linear velocity = 9.05027 (5)</print>
-  <print>maximum rigid angular velocity = 10.0003 (3)</print>
-  <print>TIME = 1.79167</print>
-  <scope name="CG"><time value="0.000090"/></scope>
-  <print>time = 1.79167</print>
-  <print>maximum rigid linear velocity = 9.03561 (5)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000218"/></scope>
-  <print>time = 1.79167</print>
-  <print>maximum rigid linear velocity = 9.1872 (9)</print>
-  <print>maximum rigid angular velocity = 9.99785 (5)</print>
-  <print>TIME = 1.83333</print>
-  <scope name="CG"><time value="0.000091"/></scope>
-  <print>time = 1.83333</print>
-  <print>maximum rigid linear velocity = 9.2023 (9)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000214"/></scope>
-  <print>time = 1.83333</print>
-  <print>maximum rigid linear velocity = 9.2859 (3)</print>
-  <print>maximum rigid angular velocity = 10.0008 (3)</print>
-  <print>TIME = 1.875</print>
-  <scope name="CG"><time value="0.000084"/></scope>
-  <print>time = 1.875</print>
-  <print>maximum rigid linear velocity = 9.29741 (9)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000212"/></scope>
-  <print>time = 1.875</print>
-  <print>maximum rigid linear velocity = 9.38427 (3)</print>
-  <print>maximum rigid angular velocity = 9.158 (5)</print>
-  <print>TIME = 1.91667</print>
-  <scope name="CG"><time value="0.000081"/></scope>
-  <print>time = 1.91667</print>
-  <print>maximum rigid linear velocity = 9.38771 (3)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000219"/></scope>
-  <print>time = 1.91667</print>
-  <print>maximum rigid linear velocity = 12.693 (8)</print>
-  <print>maximum rigid angular velocity = 10.655 (4)</print>
-  <print>TIME = 1.95833</print>
-  <scope name="CG"><time value="0.000091"/></scope>
-  <print>time = 1.95833</print>
-  <print>maximum rigid linear velocity = 12.7273 (8)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000211"/></scope>
-  <print>time = 1.95833</print>
-  <print>maximum rigid linear velocity = 12.1392 (4)</print>
-  <print>maximum rigid angular velocity = 10.0542 (5)</print>
-  <print>TIME = 2</print>
-  <scope name="CG"><time value="0.000059"/></scope>
-  <print>time = 2</print>
-  <print>maximum rigid linear velocity = 11.9707 (4)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000214"/></scope>
-  <print>time = 2</print>
-  <print>maximum rigid linear velocity = 11.3616 (4)</print>
-  <print>maximum rigid angular velocity = 10.032 (5)</print>
-  <print>TIME = 2.04167</print>
-  <scope name="CG"><time value="0.000086"/></scope>
-  <print>time = 2.04167</print>
-  <print>maximum rigid linear velocity = 11.1988 (4)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000213"/></scope>
-  <print>time = 2.04167</print>
-  <print>maximum rigid linear velocity = 10.6258 (4)</print>
-  <print>maximum rigid angular velocity = 10.0145 (4)</print>
-  <print>TIME = 2.08333</print>
-  <scope name="CG"><time value="0.000081"/></scope>
-  <print>time = 2.08333</print>
-  <print>maximum rigid linear velocity = 10.4675 (4)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000192"/></scope>
-  <print>time = 2.08333</print>
-  <print>maximum rigid linear velocity = 9.90203 (4)</print>
-  <print>maximum rigid angular velocity = 10.0102 (5)</print>
-  <print>TIME = 2.125</print>
-  <scope name="CG"><time value="0.000092"/></scope>
-  <print>time = 2.125</print>
-  <print>maximum rigid linear velocity = 9.7493 (4)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000216"/></scope>
-  <print>time = 2.125</print>
-  <print>maximum rigid linear velocity = 9.2315 (4)</print>
-  <print>maximum rigid angular velocity = 10.0161 (5)</print>
-  <print>TIME = 2.16667</print>
-  <scope name="CG"><time value="0.000090"/></scope>
-  <print>time = 2.16667</print>
-  <print>maximum rigid linear velocity = 9.0862 (4)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000201"/></scope>
-  <print>time = 2.16667</print>
-  <print>maximum rigid linear velocity = 8.64614 (4)</print>
-  <print>maximum rigid angular velocity = 10.0169 (5)</print>
-  <print>TIME = 2.20833</print>
-  <scope name="CG"><time value="0.000078"/></scope>
-  <print>time = 2.20833</print>
-  <print>maximum rigid linear velocity = 8.51077 (4)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000203"/></scope>
-  <print>time = 2.20833</print>
-  <print>maximum rigid linear velocity = 8.25836 (4)</print>
-  <print>maximum rigid angular velocity = 10.0111 (5)</print>
-  <print>TIME = 2.25</print>
-  <scope name="CG"><time value="0.000089"/></scope>
-  <print>time = 2.25</print>
-  <print>maximum rigid linear velocity = 8.16195 (8)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000215"/></scope>
-  <print>time = 2.25</print>
-  <print>maximum rigid linear velocity = 7.82659 (4)</print>
-  <print>maximum rigid angular velocity = 10.0107 (5)</print>
-  <print>TIME = 2.29167</print>
-  <scope name="CG"><time value="0.000084"/></scope>
-  <print>time = 2.29167</print>
-  <print>maximum rigid linear velocity = 7.88152 (9)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000217"/></scope>
-  <print>time = 2.29167</print>
-  <print>maximum rigid linear velocity = 7.69403 (9)</print>
-  <print>maximum rigid angular velocity = 10.0103 (5)</print>
-  <print>TIME = 2.33333</print>
-  <scope name="CG"><time value="0.000090"/></scope>
-  <print>time = 2.33333</print>
-  <print>maximum rigid linear velocity = 7.80169 (9)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000217"/></scope>
-  <print>time = 2.33333</print>
-  <print>maximum rigid linear velocity = 8.03488 (3)</print>
-  <print>maximum rigid angular velocity = 10.011 (5)</print>
-  <print>TIME = 2.375</print>
-  <scope name="CG"><time value="0.000079"/></scope>
-  <print>time = 2.375</print>
-  <print>maximum rigid linear velocity = 8.04836 (3)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000219"/></scope>
-  <print>time = 2.375</print>
-  <print>maximum rigid linear velocity = 7.63831 (9)</print>
-  <print>maximum rigid angular velocity = 10.0153 (3)</print>
-  <print>TIME = 2.41667</print>
-  <scope name="CG"><time value="0.000084"/></scope>
-  <print>time = 2.41667</print>
-  <print>maximum rigid linear velocity = 7.7435 (9)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000222"/></scope>
-  <print>time = 2.41667</print>
-  <print>maximum rigid linear velocity = 7.90156 (3)</print>
-  <print>maximum rigid angular velocity = 10.0077 (5)</print>
-  <print>TIME = 2.45833</print>
-  <scope name="CG"><time value="0.000090"/></scope>
-  <print>time = 2.45833</print>
-  <print>maximum rigid linear velocity = 7.93788 (3)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000212"/></scope>
-  <print>time = 2.45833</print>
-  <print>maximum rigid linear velocity = 7.95145 (3)</print>
-  <print>maximum rigid angular velocity = 10.0062 (5)</print>
-  <print>TIME = 2.5</print>
-  <scope name="CG"><time value="0.000093"/></scope>
-  <print>time = 2.5</print>
-  <print>maximum rigid linear velocity = 7.98491 (3)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000190"/></scope>
-  <print>time = 2.5</print>
-  <print>maximum rigid linear velocity = 7.91024 (3)</print>
-  <print>maximum rigid angular velocity = 10.0029 (5)</print>
-  <print>TIME = 2.54167</print>
-  <scope name="CG"><time value="0.000088"/></scope>
-  <print>time = 2.54167</print>
-  <print>maximum rigid linear velocity = 7.93904 (3)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000222"/></scope>
-  <print>time = 2.54167</print>
-  <print>maximum rigid linear velocity = 8.22493 (3)</print>
-  <print>maximum rigid angular velocity = 10.0017 (5)</print>
-  <print>TIME = 2.58333</print>
-  <scope name="CG"><time value="0.000087"/></scope>
-  <print>time = 2.58333</print>
-  <print>maximum rigid linear velocity = 8.24375 (3)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000217"/></scope>
-  <print>time = 2.58333</print>
-  <print>maximum rigid linear velocity = 8.0109 (3)</print>
-  <print>maximum rigid angular velocity = 10.0062 (5)</print>
-  <print>TIME = 2.625</print>
-  <scope name="CG"><time value="0.000077"/></scope>
-  <print>time = 2.625</print>
-  <print>maximum rigid linear velocity = 8.03733 (3)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000212"/></scope>
-  <print>time = 2.625</print>
-  <print>maximum rigid linear velocity = 7.92957 (8)</print>
-  <print>maximum rigid angular velocity = 10.0103 (5)</print>
-  <print>TIME = 2.66667</print>
-  <scope name="CG"><time value="0.000089"/></scope>
-  <print>time = 2.66667</print>
-  <print>maximum rigid linear velocity = 7.94254 (4)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000215"/></scope>
-  <print>time = 2.66667</print>
-  <print>maximum rigid linear velocity = 8.04309 (8)</print>
-  <print>maximum rigid angular velocity = 10.0008 (4)</print>
-  <print>TIME = 2.70833</print>
-  <scope name="CG"><time value="0.000090"/></scope>
-  <print>time = 2.70833</print>
-  <print>maximum rigid linear velocity = 8.0811 (4)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000197"/></scope>
-  <print>time = 2.70833</print>
-  <print>maximum rigid linear velocity = 8.05171 (4)</print>
-  <print>maximum rigid angular velocity = 10.0018 (4)</print>
-  <print>TIME = 2.75</print>
-  <scope name="CG"><time value="0.000084"/></scope>
-  <print>time = 2.75</print>
-  <print>maximum rigid linear velocity = 8.09364 (4)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000221"/></scope>
-  <print>time = 2.75</print>
-  <print>maximum rigid linear velocity = 7.9416 (4)</print>
-  <print>maximum rigid angular velocity = 10.0109 (3)</print>
-  <print>TIME = 2.79167</print>
-  <scope name="CG"><time value="0.000091"/></scope>
-  <print>time = 2.79167</print>
-  <print>maximum rigid linear velocity = 7.98765 (4)</print>
-  <print>maximum rigid angular velocity = 10 (4)</print>
-  <scope name="CG"><time value="0.000205"/></scope>
-  <print>time = 2.79167</print>
-  <print>maximum rigid linear velocity = 7.91962 (2)</print>
-  <print>maximum rigid angular velocity = 10.0155 (3)</print>
-  <print>TIME = 2.83333</print>
-  <scope name="CG"><time value="0.000085"/></scope>
-  <print>time = 2.83333</print>
-  <print>maximum rigid linear velocity = 8.00684 (1)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000216"/></scope>
-  <print>time = 2.83333</print>
-  <print>maximum rigid linear velocity = 8.05612 (4)</print>
-  <print>maximum rigid angular velocity = 10.0137 (3)</print>
-  <print>TIME = 2.875</print>
-  <scope name="CG"><time value="0.000068"/></scope>
-  <print>time = 2.875</print>
-  <print>maximum rigid linear velocity = 8.11915 (4)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000219"/></scope>
-  <print>time = 2.875</print>
-  <print>maximum rigid linear velocity = 8.28927 (4)</print>
-  <print>maximum rigid angular velocity = 10.0099 (3)</print>
-  <print>TIME = 2.91667</print>
-  <scope name="CG"><time value="0.000081"/></scope>
-  <print>time = 2.91667</print>
-  <print>maximum rigid linear velocity = 8.36504 (4)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000221"/></scope>
-  <print>time = 2.91667</print>
-  <print>maximum rigid linear velocity = 8.58176 (4)</print>
-  <print>maximum rigid angular velocity = 10.007 (2)</print>
-  <print>TIME = 2.95833</print>
-  <scope name="CG"><time value="0.000091"/></scope>
-  <print>time = 2.95833</print>
-  <print>maximum rigid linear velocity = 8.66803 (4)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000216"/></scope>
-  <print>time = 2.95833</print>
-  <print>maximum rigid linear velocity = 8.94948 (4)</print>
-  <print>maximum rigid angular velocity = 10.0075 (2)</print>
-  <print>TIME = 3</print>
-  <scope name="CG"><time value="0.000084"/></scope>
-  <print>time = 3</print>
-  <print>maximum rigid linear velocity = 9.04542 (4)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000219"/></scope>
-  <print>time = 3</print>
-  <print>maximum rigid linear velocity = 9.08389 (4)</print>
-  <print>maximum rigid angular velocity = 10.0033 (5)</print>
-  <print>TIME = 3.04167</print>
-  <scope name="CG"><time value="0.000088"/></scope>
-  <print>time = 3.04167</print>
-  <print>maximum rigid linear velocity = 9.18469 (4)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
-  <scope name="CG"><time value="0.000212"/></scope>
-  <print>time = 3.04167</print>
-  <print>maximum rigid linear velocity = 9.19984 (4)</print>
-  <print>maximum rigid angular velocity = 10.0103 (2)</print>
-  <print>TIME = 3.08333</print>
-  <scope name="CG"><time value="0.000091"/></scope>
-  <print>time = 3.08333</print>
-  <print>maximum rigid linear velocity = 9.30331 (4)</print>
-  <print>maximum rigid angular velocity = 10 (5)</print>
-  <scope name="CG"><time value="0.000218"/></scope>
-  <print>time = 3.08333</print>
-  <print>maximum rigid linear velocity = 9.35769 (4)</print>
-  <print>maximum rigid angular velocity = 10.0042 (5)</print>
-  <print>TIME = 3.125</print>
   <scope name="CG"><time value="0.000057"/></scope>
-  <print>time = 3.125</print>
-  <print>maximum rigid linear velocity = 9.46488 (4)</print>
-  <print>maximum rigid angular velocity = 10 (3)</print>
+  <print>time = 1.625</print>
+  <print>maximum rigid linear velocity = 9.24226 (5)</print>
+  <print>maximum rigid angular velocity = 10 (5)</print>
   <scope name="CG"><time value="0.000184"/></scope>
-  <print>time = 3.125</print>
-  <print>maximum rigid linear velocity = 9.47207 (4)</print>
-  <print>maximum rigid angular velocity = 10.0019 (4)</print>
-  <print>TIME = 3.16667</print>
-  <scope name="CG"><time value="0.000059"/></scope>
-  <print>time = 3.16667</print>
-  <print>maximum rigid linear velocity = 9.58139 (4)</print>
+  <print>time = 1.625</print>
+  <print>maximum rigid linear velocity = 9.27397 (5)</print>
+  <print>maximum rigid angular velocity = 10.0044 (5)</print>
+  <print>TIME = 1.66667</print>
+  <scope name="CG"><time value="0.000137"/></scope>
+  <print>time = 1.66667</print>
+  <print>maximum rigid linear velocity = 9.30453 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000207"/></scope>
+  <print>time = 1.66667</print>
+  <print>maximum rigid linear velocity = 9.75177 (5)</print>
+  <print>maximum rigid angular velocity = 8.99961 (5)</print>
+  <print>TIME = 1.70833</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 1.70833</print>
+  <print>maximum rigid linear velocity = 9.76967 (5)</print>
   <print>maximum rigid angular velocity = 10 (3)</print>
   <scope name="CG"><time value="0.000192"/></scope>
-  <print>time = 3.16667</print>
-  <print>maximum rigid linear velocity = 9.50542 (4)</print>
-  <print>maximum rigid angular velocity = 10.0023 (4)</print>
-  <print>TIME = 3.20833</print>
+  <print>time = 1.70833</print>
+  <print>maximum rigid linear velocity = 9.9967 (5)</print>
+  <print>maximum rigid angular velocity = 9.99591 (3)</print>
+  <print>TIME = 1.75</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 1.75</print>
+  <print>maximum rigid linear velocity = 10.0071 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000190"/></scope>
+  <print>time = 1.75</print>
+  <print>maximum rigid linear velocity = 10.0225 (5)</print>
+  <print>maximum rigid angular velocity = 10.0544 (4)</print>
+  <print>TIME = 1.79167</print>
+  <scope name="CG"><time value="0.000057"/></scope>
+  <print>time = 1.79167</print>
+  <print>maximum rigid linear velocity = 9.98813 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000186"/></scope>
+  <print>time = 1.79167</print>
+  <print>maximum rigid linear velocity = 10.0641 (5)</print>
+  <print>maximum rigid angular velocity = 10.0099 (5)</print>
+  <print>TIME = 1.83333</print>
   <scope name="CG"><time value="0.000059"/></scope>
-  <print>time = 3.20833</print>
-  <print>maximum rigid linear velocity = 9.61634 (4)</print>
+  <print>time = 1.83333</print>
+  <print>maximum rigid linear velocity = 10.0455 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000186"/></scope>
+  <print>time = 1.83333</print>
+  <print>maximum rigid linear velocity = 9.98615 (5)</print>
+  <print>maximum rigid angular velocity = 10.0138 (4)</print>
+  <print>TIME = 1.875</print>
+  <scope name="CG"><time value="0.000076"/></scope>
+  <print>time = 1.875</print>
+  <print>maximum rigid linear velocity = 9.98205 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000203"/></scope>
+  <print>time = 1.875</print>
+  <print>maximum rigid linear velocity = 10.0222 (5)</print>
+  <print>maximum rigid angular velocity = 10.0076 (3)</print>
+  <print>TIME = 1.91667</print>
+  <scope name="CG"><time value="0.000071"/></scope>
+  <print>time = 1.91667</print>
+  <print>maximum rigid linear velocity = 10.0333 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000191"/></scope>
+  <print>time = 1.91667</print>
+  <print>maximum rigid linear velocity = 10.2285 (5)</print>
+  <print>maximum rigid angular velocity = 10.0023 (3)</print>
+  <print>TIME = 1.95833</print>
+  <scope name="CG"><time value="0.000064"/></scope>
+  <print>time = 1.95833</print>
+  <print>maximum rigid linear velocity = 10.2454 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 1.95833</print>
+  <print>maximum rigid linear velocity = 10.3288 (9)</print>
+  <print>maximum rigid angular velocity = 9.99645 (3)</print>
+  <print>TIME = 2</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 2</print>
+  <print>maximum rigid linear velocity = 10.3426 (9)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 2</print>
+  <print>maximum rigid linear velocity = 10.4368 (5)</print>
+  <print>maximum rigid angular velocity = 10.0121 (4)</print>
+  <print>TIME = 2.04167</print>
+  <scope name="CG"><time value="0.000061"/></scope>
+  <print>time = 2.04167</print>
+  <print>maximum rigid linear velocity = 10.4342 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
+  <print>time = 2.04167</print>
+  <print>maximum rigid linear velocity = 10.4728 (9)</print>
+  <print>maximum rigid angular velocity = 10.0136 (4)</print>
+  <print>TIME = 2.08333</print>
+  <scope name="CG"><time value="0.000070"/></scope>
+  <print>time = 2.08333</print>
+  <print>maximum rigid linear velocity = 10.4837 (9)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000198"/></scope>
+  <print>time = 2.08333</print>
+  <print>maximum rigid linear velocity = 10.6312 (5)</print>
+  <print>maximum rigid angular velocity = 10.0118 (5)</print>
+  <print>TIME = 2.125</print>
+  <scope name="CG"><time value="0.000068"/></scope>
+  <print>time = 2.125</print>
+  <print>maximum rigid linear velocity = 10.6248 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 2.125</print>
+  <print>maximum rigid linear velocity = 10.4326 (5)</print>
+  <print>maximum rigid angular velocity = 10.0105 (2)</print>
+  <print>TIME = 2.16667</print>
+  <scope name="CG"><time value="0.000065"/></scope>
+  <print>time = 2.16667</print>
+  <print>maximum rigid linear velocity = 10.437 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
+  <print>time = 2.16667</print>
+  <print>maximum rigid linear velocity = 10.5426 (5)</print>
+  <print>maximum rigid angular velocity = 10.0179 (2)</print>
+  <print>TIME = 2.20833</print>
+  <scope name="CG"><time value="0.000071"/></scope>
+  <print>time = 2.20833</print>
+  <print>maximum rigid linear velocity = 10.5579 (5)</print>
+  <print>maximum rigid angular velocity = 10 (5)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
+  <print>time = 2.20833</print>
+  <print>maximum rigid linear velocity = 10.5456 (3)</print>
+  <print>maximum rigid angular velocity = 10.0048 (4)</print>
+  <print>TIME = 2.25</print>
+  <scope name="CG"><time value="0.000068"/></scope>
+  <print>time = 2.25</print>
+  <print>maximum rigid linear velocity = 10.5816 (3)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000191"/></scope>
+  <print>time = 2.25</print>
+  <print>maximum rigid linear velocity = 10.7137 (5)</print>
+  <print>maximum rigid angular velocity = 10.0071 (5)</print>
+  <print>TIME = 2.29167</print>
+  <scope name="CG"><time value="0.000063"/></scope>
+  <print>time = 2.29167</print>
+  <print>maximum rigid linear velocity = 10.7224 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000196"/></scope>
+  <print>time = 2.29167</print>
+  <print>maximum rigid linear velocity = 10.89 (3)</print>
+  <print>maximum rigid angular velocity = 10.0052 (4)</print>
+  <print>TIME = 2.33333</print>
+  <scope name="CG"><time value="0.000063"/></scope>
+  <print>time = 2.33333</print>
+  <print>maximum rigid linear velocity = 10.9332 (3)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
+  <print>time = 2.33333</print>
+  <print>maximum rigid linear velocity = 10.9122 (5)</print>
+  <print>maximum rigid angular velocity = 10.0265 (5)</print>
+  <print>TIME = 2.375</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 2.375</print>
+  <print>maximum rigid linear velocity = 10.9268 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 2.375</print>
+  <print>maximum rigid linear velocity = 10.9149 (5)</print>
+  <print>maximum rigid angular velocity = 10.0161 (5)</print>
+  <print>TIME = 2.41667</print>
+  <scope name="CG"><time value="0.000068"/></scope>
+  <print>time = 2.41667</print>
+  <print>maximum rigid linear velocity = 10.9307 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
+  <print>time = 2.41667</print>
+  <print>maximum rigid linear velocity = 10.7317 (5)</print>
+  <print>maximum rigid angular velocity = 10.0053 (4)</print>
+  <print>TIME = 2.45833</print>
+  <scope name="CG"><time value="0.000064"/></scope>
+  <print>time = 2.45833</print>
+  <print>maximum rigid linear velocity = 10.739 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
+  <print>time = 2.45833</print>
+  <print>maximum rigid linear velocity = 10.6519 (5)</print>
+  <print>maximum rigid angular velocity = 10.0054 (4)</print>
+  <print>TIME = 2.5</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 2.5</print>
+  <print>maximum rigid linear velocity = 10.6714 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000339"/></scope>
+  <print>time = 2.5</print>
+  <print>maximum rigid linear velocity = 10.502 (5)</print>
+  <print>maximum rigid angular velocity = 10.0034 (4)</print>
+  <print>TIME = 2.54167</print>
+  <scope name="CG"><time value="0.000063"/></scope>
+  <print>time = 2.54167</print>
+  <print>maximum rigid linear velocity = 10.5134 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000196"/></scope>
+  <print>time = 2.54167</print>
+  <print>maximum rigid linear velocity = 9.62007 (5)</print>
+  <print>maximum rigid angular velocity = 10.0423 (2)</print>
+  <print>TIME = 2.58333</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 2.58333</print>
+  <print>maximum rigid linear velocity = 9.61781 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 2.58333</print>
+  <print>maximum rigid linear velocity = 8.45428 (7)</print>
+  <print>maximum rigid angular velocity = 8.76822 (5)</print>
+  <print>TIME = 2.625</print>
+  <scope name="CG"><time value="0.000061"/></scope>
+  <print>time = 2.625</print>
+  <print>maximum rigid linear velocity = 8.51676 (7)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 2.625</print>
+  <print>maximum rigid linear velocity = 8.41755 (3)</print>
+  <print>maximum rigid angular velocity = 10.039 (2)</print>
+  <print>TIME = 2.66667</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 2.66667</print>
+  <print>maximum rigid linear velocity = 8.33483 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
+  <print>time = 2.66667</print>
+  <print>maximum rigid linear velocity = 8.46578 (3)</print>
+  <print>maximum rigid angular velocity = 10.029 (3)</print>
+  <print>TIME = 2.70833</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 2.70833</print>
+  <print>maximum rigid linear velocity = 8.42124 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
+  <print>time = 2.70833</print>
+  <print>maximum rigid linear velocity = 8.78562 (3)</print>
+  <print>maximum rigid angular velocity = 10.8433 (3)</print>
+  <print>TIME = 2.75</print>
+  <scope name="CG"><time value="0.000059"/></scope>
+  <print>time = 2.75</print>
+  <print>maximum rigid linear velocity = 8.7328 (3)</print>
   <print>maximum rigid angular velocity = 10 (2)</print>
   <scope name="CG"><time value="0.000190"/></scope>
+  <print>time = 2.75</print>
+  <print>maximum rigid linear velocity = 8.38159 (3)</print>
+  <print>maximum rigid angular velocity = 10.0145 (2)</print>
+  <print>TIME = 2.79167</print>
+  <scope name="CG"><time value="0.000061"/></scope>
+  <print>time = 2.79167</print>
+  <print>maximum rigid linear velocity = 8.36728 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000190"/></scope>
+  <print>time = 2.79167</print>
+  <print>maximum rigid linear velocity = 8.26636 (3)</print>
+  <print>maximum rigid angular velocity = 10.0206 (2)</print>
+  <print>TIME = 2.83333</print>
+  <scope name="CG"><time value="0.000065"/></scope>
+  <print>time = 2.83333</print>
+  <print>maximum rigid linear velocity = 8.28812 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 2.83333</print>
+  <print>maximum rigid linear velocity = 8.22461 (3)</print>
+  <print>maximum rigid angular velocity = 10.086 (3)</print>
+  <print>TIME = 2.875</print>
+  <scope name="CG"><time value="0.000065"/></scope>
+  <print>time = 2.875</print>
+  <print>maximum rigid linear velocity = 8.2603 (3)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 2.875</print>
+  <print>maximum rigid linear velocity = 8.30575 (3)</print>
+  <print>maximum rigid angular velocity = 10.0791 (3)</print>
+  <print>TIME = 2.91667</print>
+  <scope name="CG"><time value="0.000066"/></scope>
+  <print>time = 2.91667</print>
+  <print>maximum rigid linear velocity = 8.35316 (3)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 2.91667</print>
+  <print>maximum rigid linear velocity = 8.43955 (3)</print>
+  <print>maximum rigid angular velocity = 10.036 (3)</print>
+  <print>TIME = 2.95833</print>
+  <scope name="CG"><time value="0.000068"/></scope>
+  <print>time = 2.95833</print>
+  <print>maximum rigid linear velocity = 8.49926 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
+  <print>time = 2.95833</print>
+  <print>maximum rigid linear velocity = 8.60971 (3)</print>
+  <print>maximum rigid angular velocity = 10.0076 (2)</print>
+  <print>TIME = 3</print>
+  <scope name="CG"><time value="0.000065"/></scope>
+  <print>time = 3</print>
+  <print>maximum rigid linear velocity = 8.68176 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
+  <print>time = 3</print>
+  <print>maximum rigid linear velocity = 8.80785 (3)</print>
+  <print>maximum rigid angular velocity = 10.0037 (2)</print>
+  <print>TIME = 3.04167</print>
+  <scope name="CG"><time value="0.000063"/></scope>
+  <print>time = 3.04167</print>
+  <print>maximum rigid linear velocity = 8.89163 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000196"/></scope>
+  <print>time = 3.04167</print>
+  <print>maximum rigid linear velocity = 8.74331 (3)</print>
+  <print>maximum rigid angular velocity = 10.0139 (2)</print>
+  <print>TIME = 3.08333</print>
+  <scope name="CG"><time value="0.000064"/></scope>
+  <print>time = 3.08333</print>
+  <print>maximum rigid linear velocity = 8.81154 (3)</print>
+  <print>maximum rigid angular velocity = 10 (5)</print>
+  <scope name="CG"><time value="0.000198"/></scope>
+  <print>time = 3.08333</print>
+  <print>maximum rigid linear velocity = 7.95251 (3)</print>
+  <print>maximum rigid angular velocity = 10.0023 (4)</print>
+  <print>TIME = 3.125</print>
+  <scope name="CG"><time value="0.000062"/></scope>
+  <print>time = 3.125</print>
+  <print>maximum rigid linear velocity = 7.97669 (3)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 3.125</print>
+  <print>maximum rigid linear velocity = 7.76949 (1)</print>
+  <print>maximum rigid angular velocity = 10.004 (2)</print>
+  <print>TIME = 3.16667</print>
+  <scope name="CG"><time value="0.000067"/></scope>
+  <print>time = 3.16667</print>
+  <print>maximum rigid linear velocity = 7.9396 (1)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
+  <print>time = 3.16667</print>
+  <print>maximum rigid linear velocity = 8.08384 (3)</print>
+  <print>maximum rigid angular velocity = 10.0061 (2)</print>
+  <print>TIME = 3.20833</print>
+  <scope name="CG"><time value="0.000062"/></scope>
   <print>time = 3.20833</print>
-  <print>maximum rigid linear velocity = 9.69596 (4)</print>
-  <print>maximum rigid angular velocity = 10.0221 (2)</print>
+  <print>maximum rigid linear velocity = 8.10471 (3)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000187"/></scope>
+  <print>time = 3.20833</print>
+  <print>maximum rigid linear velocity = 8.01274 (3)</print>
+  <print>maximum rigid angular velocity = 10.0046 (5)</print>
   <print>TIME = 3.25</print>
   <scope name="CG"><time value="0.000060"/></scope>
   <print>time = 3.25</print>
-  <print>maximum rigid linear velocity = 9.81152 (4)</print>
-  <print>maximum rigid angular velocity = 10 (2)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
+  <print>maximum rigid linear velocity = 8.02071 (3)</print>
+  <print>maximum rigid angular velocity = 10 (5)</print>
+  <scope name="CG"><time value="0.000189"/></scope>
   <print>time = 3.25</print>
-  <print>maximum rigid linear velocity = 20.1715 (1)</print>
-  <print>maximum rigid angular velocity = 57.0903 (7)</print>
+  <print>maximum rigid linear velocity = 8.01102 (5)</print>
+  <print>maximum rigid angular velocity = 10.0051 (5)</print>
   <print>TIME = 3.29167</print>
-  <scope name="CG"><time value="0.000046"/></scope>
+  <scope name="CG"><time value="0.000059"/></scope>
   <print>time = 3.29167</print>
-  <print>maximum rigid linear velocity = 20.0242 (1)</print>
-  <print>maximum rigid angular velocity = 57.0903 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
+  <print>maximum rigid linear velocity = 8.06015 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000188"/></scope>
   <print>time = 3.29167</print>
-  <print>maximum rigid linear velocity = 19.8778 (1)</print>
-  <print>maximum rigid angular velocity = 56.2807 (7)</print>
+  <print>maximum rigid linear velocity = 8.14265 (5)</print>
+  <print>maximum rigid angular velocity = 10.0062 (2)</print>
   <print>TIME = 3.33333</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000065"/></scope>
   <print>time = 3.33333</print>
-  <print>maximum rigid linear velocity = 19.7325 (1)</print>
-  <print>maximum rigid angular velocity = 56.2808 (7)</print>
-  <scope name="CG"><time value="0.000121"/></scope>
+  <print>maximum rigid linear velocity = 8.19886 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000191"/></scope>
   <print>time = 3.33333</print>
-  <print>maximum rigid linear velocity = 19.5882 (1)</print>
-  <print>maximum rigid angular velocity = 55.6332 (7)</print>
+  <print>maximum rigid linear velocity = 8.47278 (5)</print>
+  <print>maximum rigid angular velocity = 10.0049 (5)</print>
   <print>TIME = 3.375</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000066"/></scope>
   <print>time = 3.375</print>
-  <print>maximum rigid linear velocity = 19.445 (1)</print>
-  <print>maximum rigid angular velocity = 55.6332 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
+  <print>maximum rigid linear velocity = 8.53829 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
   <print>time = 3.375</print>
-  <print>maximum rigid linear velocity = 19.3028 (1)</print>
-  <print>maximum rigid angular velocity = 54.9627 (7)</print>
+  <print>maximum rigid linear velocity = 8.77555 (5)</print>
+  <print>maximum rigid angular velocity = 8.37928 (3)</print>
   <print>TIME = 3.41667</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000064"/></scope>
   <print>time = 3.41667</print>
-  <print>maximum rigid linear velocity = 19.1618 (1)</print>
-  <print>maximum rigid angular velocity = 54.9627 (7)</print>
-  <scope name="CG"><time value="0.000121"/></scope>
+  <print>maximum rigid linear velocity = 8.82022 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000196"/></scope>
   <print>time = 3.41667</print>
-  <print>maximum rigid linear velocity = 19.022 (1)</print>
-  <print>maximum rigid angular velocity = 54.3036 (7)</print>
+  <print>maximum rigid linear velocity = 9.06315 (5)</print>
+  <print>maximum rigid angular velocity = 10.0524 (4)</print>
   <print>TIME = 3.45833</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000063"/></scope>
   <print>time = 3.45833</print>
-  <print>maximum rigid linear velocity = 18.8833 (1)</print>
-  <print>maximum rigid angular velocity = 54.3036 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
+  <print>maximum rigid linear velocity = 9.07824 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
   <print>time = 3.45833</print>
-  <print>maximum rigid linear velocity = 18.7458 (1)</print>
-  <print>maximum rigid angular velocity = 53.7152 (7)</print>
+  <print>maximum rigid linear velocity = 9.52894 (5)</print>
+  <print>maximum rigid angular velocity = 8.93604 (3)</print>
   <print>TIME = 3.5</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000061"/></scope>
   <print>time = 3.5</print>
-  <print>maximum rigid linear velocity = 18.6096 (1)</print>
-  <print>maximum rigid angular velocity = 53.7153 (7)</print>
-  <scope name="CG"><time value="0.000121"/></scope>
+  <print>maximum rigid linear velocity = 9.52471 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000196"/></scope>
   <print>time = 3.5</print>
-  <print>maximum rigid linear velocity = 18.4746 (1)</print>
-  <print>maximum rigid angular velocity = 53.1623 (7)</print>
+  <print>maximum rigid linear velocity = 9.5883 (5)</print>
+  <print>maximum rigid angular velocity = 10.0031 (5)</print>
   <print>TIME = 3.54167</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000061"/></scope>
   <print>time = 3.54167</print>
-  <print>maximum rigid linear velocity = 18.3408 (1)</print>
-  <print>maximum rigid angular velocity = 53.1623 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
+  <print>maximum rigid linear velocity = 9.58876 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
   <print>time = 3.54167</print>
-  <print>maximum rigid linear velocity = 18.2084 (1)</print>
-  <print>maximum rigid angular velocity = 52.6517 (7)</print>
+  <print>maximum rigid linear velocity = 9.68151 (5)</print>
+  <print>maximum rigid angular velocity = 10.0017 (5)</print>
   <print>TIME = 3.58333</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000066"/></scope>
   <print>time = 3.58333</print>
-  <print>maximum rigid linear velocity = 18.0773 (1)</print>
-  <print>maximum rigid angular velocity = 52.6517 (7)</print>
-  <scope name="CG"><time value="0.000121"/></scope>
+  <print>maximum rigid linear velocity = 9.69498 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
   <print>time = 3.58333</print>
-  <print>maximum rigid linear velocity = 17.9476 (1)</print>
-  <print>maximum rigid angular velocity = 52.1904 (7)</print>
+  <print>maximum rigid linear velocity = 9.94111 (5)</print>
+  <print>maximum rigid angular velocity = 9.67047 (4)</print>
   <print>TIME = 3.625</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000064"/></scope>
   <print>time = 3.625</print>
-  <print>maximum rigid linear velocity = 17.8193 (1)</print>
-  <print>maximum rigid angular velocity = 52.1904 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
+  <print>maximum rigid linear velocity = 9.94727 (5)</print>
+  <print>maximum rigid angular velocity = 10 (2)</print>
+  <scope name="CG"><time value="0.000191"/></scope>
   <print>time = 3.625</print>
-  <print>maximum rigid linear velocity = 17.6924 (1)</print>
-  <print>maximum rigid angular velocity = 51.795 (7)</print>
+  <print>maximum rigid linear velocity = 9.75698 (5)</print>
+  <print>maximum rigid angular velocity = 9.83219 (3)</print>
   <print>TIME = 3.66667</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000064"/></scope>
   <print>time = 3.66667</print>
-  <print>maximum rigid linear velocity = 17.567 (1)</print>
-  <print>maximum rigid angular velocity = 51.795 (7)</print>
-  <scope name="CG"><time value="0.000121"/></scope>
+  <print>maximum rigid linear velocity = 9.76121 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
   <print>time = 3.66667</print>
-  <print>maximum rigid linear velocity = 17.443 (1)</print>
-  <print>maximum rigid angular velocity = 51.4298 (7)</print>
+  <print>maximum rigid linear velocity = 9.73178 (5)</print>
+  <print>maximum rigid angular velocity = 10.006 (3)</print>
   <print>TIME = 3.70833</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000063"/></scope>
   <print>time = 3.70833</print>
-  <print>maximum rigid linear velocity = 17.3206 (1)</print>
-  <print>maximum rigid angular velocity = 51.4298 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
+  <print>maximum rigid linear velocity = 9.7326 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000198"/></scope>
   <print>time = 3.70833</print>
-  <print>maximum rigid linear velocity = 17.1997 (1)</print>
-  <print>maximum rigid angular velocity = 51.1326 (7)</print>
+  <print>maximum rigid linear velocity = 9.36061 (5)</print>
+  <print>maximum rigid angular velocity = 10.0102 (3)</print>
   <print>TIME = 3.75</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000060"/></scope>
   <print>time = 3.75</print>
-  <print>maximum rigid linear velocity = 17.0804 (1)</print>
-  <print>maximum rigid angular velocity = 51.1326 (7)</print>
-  <scope name="CG"><time value="0.000121"/></scope>
+  <print>maximum rigid linear velocity = 9.38343 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
   <print>time = 3.75</print>
-  <print>maximum rigid linear velocity = 16.9627 (1)</print>
-  <print>maximum rigid angular velocity = 50.9097 (7)</print>
+  <print>maximum rigid linear velocity = 9.3889 (5)</print>
+  <print>maximum rigid angular velocity = 10.0137 (4)</print>
   <print>TIME = 3.79167</print>
-  <scope name="CG"><time value="0.000044"/></scope>
+  <scope name="CG"><time value="0.000064"/></scope>
   <print>time = 3.79167</print>
-  <print>maximum rigid linear velocity = 16.8467 (1)</print>
-  <print>maximum rigid angular velocity = 50.9097 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
+  <print>maximum rigid linear velocity = 9.40032 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
   <print>time = 3.79167</print>
-  <print>maximum rigid linear velocity = 16.7323 (1)</print>
-  <print>maximum rigid angular velocity = 50.7693 (7)</print>
+  <print>maximum rigid linear velocity = 9.48275 (5)</print>
+  <print>maximum rigid angular velocity = 10.0263 (4)</print>
   <print>TIME = 3.83333</print>
-  <scope name="CG"><time value="0.000045"/></scope>
+  <scope name="CG"><time value="0.000062"/></scope>
   <print>time = 3.83333</print>
-  <print>maximum rigid linear velocity = 16.6197 (1)</print>
-  <print>maximum rigid angular velocity = 50.7693 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
+  <print>maximum rigid linear velocity = 9.49709 (5)</print>
+  <print>maximum rigid angular velocity = 10 (5)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
   <print>time = 3.83333</print>
-  <print>maximum rigid linear velocity = 16.5089 (1)</print>
-  <print>maximum rigid angular velocity = 50.7176 (7)</print>
+  <print>maximum rigid linear velocity = 9.58257 (5)</print>
+  <print>maximum rigid angular velocity = 10.0368 (4)</print>
   <print>TIME = 3.875</print>
-  <scope name="CG"><time value="0.000045"/></scope>
+  <scope name="CG"><time value="0.000062"/></scope>
   <print>time = 3.875</print>
-  <print>maximum rigid linear velocity = 16.3998 (1)</print>
-  <print>maximum rigid angular velocity = 50.7176 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
+  <print>maximum rigid linear velocity = 9.6034 (5)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000193"/></scope>
   <print>time = 3.875</print>
-  <print>maximum rigid linear velocity = 16.2925 (1)</print>
-  <print>maximum rigid angular velocity = 50.7618 (7)</print>
+  <print>maximum rigid linear velocity = 9.41028 (5)</print>
+  <print>maximum rigid angular velocity = 10.0447 (5)</print>
   <print>TIME = 3.91667</print>
-  <scope name="CG"><time value="0.000045"/></scope>
+  <scope name="CG"><time value="0.000062"/></scope>
   <print>time = 3.91667</print>
-  <print>maximum rigid linear velocity = 16.1872 (1)</print>
-  <print>maximum rigid angular velocity = 50.7618 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
+  <print>maximum rigid linear velocity = 9.45052 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
   <print>time = 3.91667</print>
-  <print>maximum rigid linear velocity = 16.0837 (1)</print>
-  <print>maximum rigid angular velocity = 50.9082 (7)</print>
+  <print>maximum rigid linear velocity = 9.49506 (5)</print>
+  <print>maximum rigid angular velocity = 10.0273 (4)</print>
   <print>TIME = 3.95833</print>
-  <scope name="CG"><time value="0.000046"/></scope>
+  <scope name="CG"><time value="0.000061"/></scope>
   <print>time = 3.95833</print>
-  <print>maximum rigid linear velocity = 15.9822 (1)</print>
-  <print>maximum rigid angular velocity = 50.9082 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
+  <print>maximum rigid linear velocity = 9.51412 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000195"/></scope>
   <print>time = 3.95833</print>
-  <print>maximum rigid linear velocity = 15.8826 (1)</print>
-  <print>maximum rigid angular velocity = 51.1628 (7)</print>
+  <print>maximum rigid linear velocity = 9.78779 (5)</print>
+  <print>maximum rigid angular velocity = 10.0095 (4)</print>
   <print>TIME = 4</print>
-  <scope name="CG"><time value="0.000045"/></scope>
+  <scope name="CG"><time value="0.000063"/></scope>
   <print>time = 4</print>
-  <print>maximum rigid linear velocity = 15.7851 (1)</print>
-  <print>maximum rigid angular velocity = 51.1629 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
+  <print>maximum rigid linear velocity = 9.77395 (5)</print>
+  <print>maximum rigid angular velocity = 10 (5)</print>
+  <scope name="CG"><time value="0.000194"/></scope>
   <print>time = 4</print>
-  <print>maximum rigid linear velocity = 15.6896 (1)</print>
-  <print>maximum rigid angular velocity = 51.5306 (7)</print>
+  <print>maximum rigid linear velocity = 9.5106 (5)</print>
+  <print>maximum rigid angular velocity = 10.0022 (2)</print>
   <print>TIME = 4.04167</print>
-  <scope name="CG"><time value="0.000046"/></scope>
+  <scope name="CG"><time value="0.000064"/></scope>
   <print>time = 4.04167</print>
-  <print>maximum rigid linear velocity = 15.5961 (1)</print>
-  <print>maximum rigid angular velocity = 51.5307 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
+  <print>maximum rigid linear velocity = 9.52412 (5)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000192"/></scope>
   <print>time = 4.04167</print>
-  <print>maximum rigid linear velocity = 15.5049 (1)</print>
-  <print>maximum rigid angular velocity = 52.0153 (7)</print>
+  <print>maximum rigid linear velocity = 9.56521 (3)</print>
+  <print>maximum rigid angular velocity = 10.0263 (5)</print>
   <print>TIME = 4.08333</print>
-  <scope name="CG"><time value="0.000045"/></scope>
+  <scope name="CG"><time value="0.000061"/></scope>
   <print>time = 4.08333</print>
-  <print>maximum rigid linear velocity = 15.4157 (1)</print>
-  <print>maximum rigid angular velocity = 52.0154 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
+  <print>maximum rigid linear velocity = 9.55204 (3)</print>
+  <print>maximum rigid angular velocity = 10 (4)</print>
+  <scope name="CG"><time value="0.000188"/></scope>
   <print>time = 4.08333</print>
-  <print>maximum rigid linear velocity = 15.3288 (1)</print>
-  <print>maximum rigid angular velocity = 52.6171 (7)</print>
+  <print>maximum rigid linear velocity = 9.78992 (3)</print>
+  <print>maximum rigid angular velocity = 10.0228 (4)</print>
   <print>TIME = 4.125</print>
-  <scope name="CG"><time value="0.000045"/></scope>
+  <scope name="CG"><time value="0.000059"/></scope>
   <print>time = 4.125</print>
-  <print>maximum rigid linear velocity = 15.2441 (1)</print>
-  <print>maximum rigid angular velocity = 52.6171 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
+  <print>maximum rigid linear velocity = 9.77913 (3)</print>
+  <print>maximum rigid angular velocity = 10 (3)</print>
+  <scope name="CG"><time value="0.000188"/></scope>
   <print>time = 4.125</print>
-  <print>maximum rigid linear velocity = 15.1617 (1)</print>
-  <print>maximum rigid angular velocity = 53.3334 (7)</print>
+  <print>maximum rigid linear velocity = 9.81294 (3)</print>
+  <print>maximum rigid angular velocity = 10.0339 (3)</print>
   <print>TIME = 4.16667</print>
-  <scope name="CG"><time value="0.000045"/></scope>
-  <print>time = 4.16667</print>
-  <print>maximum rigid linear velocity = 15.0817 (1)</print>
-  <print>maximum rigid angular velocity = 53.3334 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
-  <print>time = 4.16667</print>
-  <print>maximum rigid linear velocity = 15.0039 (1)</print>
-  <print>maximum rigid angular velocity = 54.1581 (7)</print>
-  <print>TIME = 4.20833</print>
-  <scope name="CG"><time value="0.000046"/></scope>
-  <print>time = 4.20833</print>
-  <print>maximum rigid linear velocity = 14.9286 (1)</print>
-  <print>maximum rigid angular velocity = 54.1581 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
-  <print>time = 4.20833</print>
-  <print>maximum rigid linear velocity = 14.8556 (1)</print>
-  <print>maximum rigid angular velocity = 55.1108 (7)</print>
-  <print>TIME = 4.25</print>
-  <scope name="CG"><time value="0.000045"/></scope>
-  <print>time = 4.25</print>
-  <print>maximum rigid linear velocity = 14.7852 (1)</print>
-  <print>maximum rigid angular velocity = 55.1108 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
-  <print>time = 4.25</print>
-  <print>maximum rigid linear velocity = 14.7172 (1)</print>
-  <print>maximum rigid angular velocity = 56.1941 (7)</print>
-  <print>TIME = 4.29167</print>
-  <scope name="CG"><time value="0.000046"/></scope>
-  <print>time = 4.29167</print>
-  <print>maximum rigid linear velocity = 14.6518 (1)</print>
-  <print>maximum rigid angular velocity = 56.1941 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
-  <print>time = 4.29167</print>
-  <print>maximum rigid linear velocity = 14.5889 (1)</print>
-  <print>maximum rigid angular velocity = 57.3927 (7)</print>
-  <print>TIME = 4.33333</print>
-  <scope name="CG"><time value="0.000045"/></scope>
-  <print>time = 4.33333</print>
-  <print>maximum rigid linear velocity = 14.5286 (1)</print>
-  <print>maximum rigid angular velocity = 57.3927 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
-  <print>time = 4.33333</print>
-  <print>maximum rigid linear velocity = 14.471 (1)</print>
-  <print>maximum rigid angular velocity = 58.6823 (7)</print>
-  <print>TIME = 4.375</print>
-  <scope name="CG"><time value="0.000045"/></scope>
-  <print>time = 4.375</print>
-  <print>maximum rigid linear velocity = 14.416 (1)</print>
-  <print>maximum rigid angular velocity = 58.6823 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
-  <print>time = 4.375</print>
-  <print>maximum rigid linear velocity = 14.3637 (1)</print>
-  <print>maximum rigid angular velocity = 60.0315 (7)</print>
-  <print>TIME = 4.41667</print>
-  <scope name="CG"><time value="0.000044"/></scope>
-  <print>time = 4.41667</print>
-  <print>maximum rigid linear velocity = 14.3141 (1)</print>
-  <print>maximum rigid angular velocity = 60.0315 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
-  <print>time = 4.41667</print>
-  <print>maximum rigid linear velocity = 14.2673 (1)</print>
-  <print>maximum rigid angular velocity = 61.4029 (7)</print>
-  <print>TIME = 4.45833</print>
-  <scope name="CG"><time value="0.000045"/></scope>
-  <print>time = 4.45833</print>
-  <print>maximum rigid linear velocity = 14.2232 (1)</print>
-  <print>maximum rigid angular velocity = 61.4029 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
-  <print>time = 4.45833</print>
-  <print>maximum rigid linear velocity = 14.182 (1)</print>
-  <print>maximum rigid angular velocity = 62.7558 (7)</print>
-  <print>TIME = 4.5</print>
-  <scope name="CG"><time value="0.000045"/></scope>
-  <print>time = 4.5</print>
-  <print>maximum rigid linear velocity = 14.1435 (1)</print>
-  <print>maximum rigid angular velocity = 62.7558 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
-  <print>time = 4.5</print>
-  <print>maximum rigid linear velocity = 14.108 (1)</print>
-  <print>maximum rigid angular velocity = 64.0491 (7)</print>
-  <print>TIME = 4.54167</print>
-  <scope name="CG"><time value="0.000046"/></scope>
-  <print>time = 4.54167</print>
-  <print>maximum rigid linear velocity = 14.0753 (1)</print>
-  <print>maximum rigid angular velocity = 64.0492 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
-  <print>time = 4.54167</print>
-  <print>maximum rigid linear velocity = 14.0455 (1)</print>
-  <print>maximum rigid angular velocity = 65.2448 (7)</print>
-  <print>TIME = 4.58333</print>
-  <scope name="CG"><time value="0.000046"/></scope>
-  <print>time = 4.58333</print>
-  <print>maximum rigid linear velocity = 14.0186 (1)</print>
-  <print>maximum rigid angular velocity = 65.2448 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
-  <print>time = 4.58333</print>
-  <print>maximum rigid linear velocity = 13.9946 (1)</print>
-  <print>maximum rigid angular velocity = 66.3095 (7)</print>
-  <print>TIME = 4.625</print>
-  <scope name="CG"><time value="0.000046"/></scope>
-  <print>time = 4.625</print>
-  <print>maximum rigid linear velocity = 13.9736 (1)</print>
-  <print>maximum rigid angular velocity = 66.3096 (7)</print>
-  <scope name="CG"><time value="0.000124"/></scope>
-  <print>time = 4.625</print>
-  <print>maximum rigid linear velocity = 13.9555 (1)</print>
-  <print>maximum rigid angular velocity = 67.2677 (7)</print>
-  <print>TIME = 4.66667</print>
-  <scope name="CG"><time value="0.000045"/></scope>
-  <print>time = 4.66667</print>
-  <print>maximum rigid linear velocity = 13.9404 (1)</print>
-  <print>maximum rigid angular velocity = 67.2677 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
-  <print>time = 4.66667</print>
-  <print>maximum rigid linear velocity = 13.9283 (1)</print>
-  <print>maximum rigid angular velocity = 67.3163 (7)</print>
-  <print>TIME = 4.70833</print>
-  <scope name="CG"><time value="0.000045"/></scope>
-  <print>time = 4.70833</print>
-  <print>maximum rigid linear velocity = 13.9191 (1)</print>
-  <print>maximum rigid angular velocity = 67.3163 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
-  <print>time = 4.70833</print>
-  <print>maximum rigid linear velocity = 13.913 (1)</print>
-  <print>maximum rigid angular velocity = 67.1758 (7)</print>
-  <print>TIME = 4.75</print>
-  <scope name="CG"><time value="0.000044"/></scope>
-  <print>time = 4.75</print>
-  <print>maximum rigid linear velocity = 13.9098 (1)</print>
-  <print>maximum rigid angular velocity = 67.1759 (7)</print>
-  <scope name="CG"><time value="0.000127"/></scope>
-  <print>time = 4.75</print>
-  <print>maximum rigid linear velocity = 13.9097 (1)</print>
-  <print>maximum rigid angular velocity = 67.5702 (7)</print>
-  <print>TIME = 4.79167</print>
-  <scope name="CG"><time value="0.000044"/></scope>
-  <print>time = 4.79167</print>
-  <print>maximum rigid linear velocity = 13.9125 (1)</print>
-  <print>maximum rigid angular velocity = 67.5703 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
-  <print>time = 4.79167</print>
-  <print>maximum rigid linear velocity = 13.9183 (1)</print>
-  <print>maximum rigid angular velocity = 67.746 (7)</print>
-  <print>TIME = 4.83333</print>
-  <scope name="CG"><time value="0.000046"/></scope>
-  <print>time = 4.83333</print>
-  <print>maximum rigid linear velocity = 13.9272 (1)</print>
-  <print>maximum rigid angular velocity = 67.746 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
-  <print>time = 4.83333</print>
-  <print>maximum rigid linear velocity = 13.939 (1)</print>
-  <print>maximum rigid angular velocity = 68.051 (7)</print>
-  <print>TIME = 4.875</print>
-  <scope name="CG"><time value="0.000049"/></scope>
-  <print>time = 4.875</print>
-  <print>maximum rigid linear velocity = 13.9537 (1)</print>
-  <print>maximum rigid angular velocity = 68.051 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
-  <print>time = 4.875</print>
-  <print>maximum rigid linear velocity = 13.9715 (1)</print>
-  <print>maximum rigid angular velocity = 68.2464 (7)</print>
-  <print>TIME = 4.91667</print>
-  <scope name="CG"><time value="0.000048"/></scope>
-  <print>time = 4.91667</print>
-  <print>maximum rigid linear velocity = 13.9922 (1)</print>
-  <print>maximum rigid angular velocity = 68.2464 (7)</print>
-  <scope name="CG"><time value="0.000125"/></scope>
-  <print>time = 4.91667</print>
-  <print>maximum rigid linear velocity = 14.0159 (1)</print>
-  <print>maximum rigid angular velocity = 68.5152 (7)</print>
-  <print>TIME = 4.95833</print>
-  <scope name="CG"><time value="0.000044"/></scope>
-  <print>time = 4.95833</print>
-  <print>maximum rigid linear velocity = 14.0424 (1)</print>
-  <print>maximum rigid angular velocity = 68.5152 (7)</print>
-  <scope name="CG"><time value="0.000120"/></scope>
-  <print>time = 4.95833</print>
-  <print>maximum rigid linear velocity = 14.0719 (1)</print>
-  <print>maximum rigid angular velocity = 67.8928 (7)</print>
-  <print>TIME = 5</print>
-  <scope name="CG"><time value="0.000044"/></scope>
-  <print>time = 5</print>
-  <print>maximum rigid linear velocity = 14.1043 (1)</print>
-  <print>maximum rigid angular velocity = 67.8928 (7)</print>
-  <scope name="CG"><time value="0.000121"/></scope>
+<time value="16.851679"/></scope>

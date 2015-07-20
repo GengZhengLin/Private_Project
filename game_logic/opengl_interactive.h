@@ -149,7 +149,7 @@ INTERACTIVE_VISUALIZATION():argc(0),argv(0),is_interactive(true)
 //#####################################################################
 template<class T,class RW> INTERACTIVE_VISUALIZATION<T,RW>::
 ~INTERACTIVE_VISUALIZATION() {
-    delete argv;
+    // delete argv;
 }
 
 //#####################################################################
